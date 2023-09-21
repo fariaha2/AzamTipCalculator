@@ -30,7 +30,7 @@ public class Main {
             System.out.println("Total bill before tip: " + total);
             System.out.println("Total percentage: " + percentage);
             System.out.println("Total tip: " + totalTip);
-            System.out.println("Total bill with tip:" + billWithTip);
+            System.out.println("Total bill with tip: " + billWithTip);
             System.out.println("Per person cost before tip: " + beforeTip);
             System.out.println("Tip per person: " + tipPerPerson);
             System.out.println("Total cost per person: " + costPerPerson);
